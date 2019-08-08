@@ -1,0 +1,66 @@
+2019-03-28 14:26:06,866 - root - INFO - ############################### START ###############################
+2019-03-28 14:26:16,911 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[1]> content: 15100000000, Spend 0.2637026309967041 seconds
+2019-03-28 14:26:16,986 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[2]> content: 111111, Spend 0.07420825958251953 seconds
+2019-03-28 14:26:19,216 - root - INFO - ###############################  End  ###############################
+2019-03-28 14:26:19,219 - root - INFO - ############################### START ###############################
+2019-03-28 14:26:27,172 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[1]> content: 18911111111, Spend 0.10126829147338867 seconds
+2019-03-28 14:26:27,237 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[2]> content: 123456, Spend 0.06416940689086914 seconds
+2019-03-28 14:26:29,472 - root - INFO - ###############################  End  ###############################
+2019-03-28 14:26:29,473 - root - INFO - ############################### START ###############################
+2019-03-28 14:26:45,689 - root - INFO - ###############################  End  ###############################
+2019-03-28 14:26:45,690 - root - INFO - ############################### START ###############################
+2019-03-28 14:27:00,134 - root - INFO - ###############################  End  ###############################
+2019-03-28 14:27:00,185 - root - INFO - ############################### START ###############################
+2019-03-28 14:27:11,670 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[1]/p>, Spend 1.2773935794830322 seconds
+2019-03-28 14:27:12,779 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[2]/input>, Spend 1.1079473495483398 seconds
+2019-03-28 14:27:12,892 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[2]/input>, Spend 0.11229586601257324 seconds
+2019-03-28 14:27:13,001 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[1]/div[2]/input> content: 98144, Spend 0.10628104209899902 seconds
+2019-03-28 14:27:13,177 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[2]/span>, Spend 0.1754748821258545 seconds
+2019-03-28 14:27:22,420 - root - INFO - ###############################  End  ###############################
+2019-03-28 14:27:22,422 - root - INFO - ############################### START ###############################
+2019-03-28 14:27:33,097 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[1]/p>, Spend 1.1420361995697021 seconds
+2019-03-28 14:27:42,325 - root - INFO - ###############################  End  ###############################
+2019-03-28 16:04:45,344 - root - INFO - ############################### START ###############################
+2019-03-28 16:04:52,837 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[1]> content: 15100000000, Spend 0.08422231674194336 seconds
+2019-03-28 16:04:53,124 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[2]> content: 111111, Spend 0.2877652645111084 seconds
+2019-03-28 16:04:55,390 - root - INFO - ###############################  End  ###############################
+2019-03-28 16:04:55,392 - root - INFO - ############################### START ###############################
+2019-03-28 16:05:02,788 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[1]> content: 18911111111, Spend 0.08021259307861328 seconds
+2019-03-28 16:05:02,852 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[2]> content: 123456, Spend 0.06314802169799805 seconds
+2019-03-28 16:05:05,089 - root - INFO - ###############################  End  ###############################
+2019-03-28 16:05:05,092 - root - INFO - ############################### START ###############################
+2019-03-28 16:05:19,914 - root - INFO - ###############################  End  ###############################
+2019-03-28 16:05:19,917 - root - INFO - ############################### START ###############################
+2019-03-28 16:05:34,817 - root - INFO - ###############################  End  ###############################
+2019-03-28 16:05:34,819 - root - INFO - ############################### START ###############################
+2019-03-28 16:05:46,178 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[1]/p>, Spend 1.1701090335845947 seconds
+2019-03-28 16:05:47,335 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[2]/input>, Spend 1.1560733318328857 seconds
+2019-03-28 16:05:47,427 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[2]/input>, Spend 0.09124541282653809 seconds
+2019-03-28 16:05:47,564 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[1]/div[2]/input> content: 98144, Spend 0.13538551330566406 seconds
+2019-03-28 16:05:47,726 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[2]/span>, Spend 0.1604020595550537 seconds
+2019-03-28 16:05:56,904 - root - INFO - ###############################  End  ###############################
+2019-03-28 16:05:56,906 - root - INFO - ############################### START ###############################
+2019-03-28 16:06:08,011 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[1]/p>, Spend 1.2162261009216309 seconds
+2019-03-28 16:06:17,154 - root - INFO - ###############################  End  ###############################
+2019-03-28 17:10:18,339 - root - INFO - ############################### START ###############################
+2019-03-28 17:10:26,293 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[1]> content: 15100000000, Spend 0.0832219123840332 seconds
+2019-03-28 17:10:26,354 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[2]> content: 111111, Spend 0.060159921646118164 seconds
+2019-03-28 17:10:28,585 - root - INFO - ###############################  End  ###############################
+2019-03-28 17:10:28,588 - root - INFO - ############################### START ###############################
+2019-03-28 17:10:35,423 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[1]> content: 18911111111, Spend 0.07419610023498535 seconds
+2019-03-28 17:10:35,481 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[2]/form[2]/input[2]> content: 123456, Spend 0.05715203285217285 seconds
+2019-03-28 17:10:37,697 - root - INFO - ###############################  End  ###############################
+2019-03-28 17:10:37,700 - root - INFO - ############################### START ###############################
+2019-03-28 17:10:51,699 - root - INFO - ###############################  End  ###############################
+2019-03-28 17:10:51,700 - root - INFO - ############################### START ###############################
+2019-03-28 17:11:05,469 - root - INFO - ###############################  End  ###############################
+2019-03-28 17:11:05,470 - root - INFO - ############################### START ###############################
+2019-03-28 17:11:17,256 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[1]/p>, Spend 1.2282650470733643 seconds
+2019-03-28 17:11:18,397 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[2]/input>, Spend 1.140030860900879 seconds
+2019-03-28 17:11:18,473 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[2]/input>, Spend 0.07520031929016113 seconds
+2019-03-28 17:11:18,526 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="app"]/div/div[1]/div[2]/input> content: 98144, Spend 0.052138566970825195 seconds
+2019-03-28 17:11:18,633 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[2]/span>, Spend 0.1072847843170166 seconds
+2019-03-28 17:11:27,855 - root - INFO - ###############################  End  ###############################
+2019-03-28 17:11:27,856 - root - INFO - ############################### START ###############################
+2019-03-28 17:11:39,398 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div[1]/div[1]/p>, Spend 1.1009273529052734 seconds
+2019-03-28 17:11:48,621 - root - INFO - ###############################  End  ###############################
